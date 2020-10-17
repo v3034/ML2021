@@ -19,5 +19,4 @@ This is program for a  chat bot ....
    the code to ride counter as a ticket, With this he can enjoy the ride happily.
 
 reference links are : 1. https://www.youtube.com/watch?v=C6X71gjB9pA  for having an idea that how to design a chat bot model.
-                     
-                       2. https://www.codesnail.com/simple-password-generator-using-python/    with the help of this i understand how to use random for generations.
+                         2. https://www.codesnail.com/simple-password-generator-using-python/    with the help of this i understand how to use random for generations.
