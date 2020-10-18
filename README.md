@@ -19,7 +19,7 @@ This is program for a  chat bot ....
    the code to ride counter as a ticket, With this he can enjoy the ride happily.
    
    
-   execution of code video link : https://www.youtube.com/watch?v=QPcyk4hWU-8&feature=youtu.be  
+   execution of only code of our chat bot video link : https://www.youtube.com/watch?v=QPcyk4hWU-8&feature=youtu.be  
    
    explanation of our chat bot with code and execution by our team : https://www.youtube.com/watch?v=yQEAnXGPlZE&feature=youtu.be
 
