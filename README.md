@@ -22,9 +22,12 @@ This is program for a  chat bot ....
    execution of only code of our chat bot video link : https://www.youtube.com/watch?v=QPcyk4hWU-8&feature=youtu.be  
    
    explanation of our chat bot with code and execution by our team : https://www.youtube.com/watch?v=yQEAnXGPlZE&feature=youtu.be
+   
+   
+   image of block diagram :
+https://github.com/v3034/ML2021/issues/1#issue-724034723
 
 reference links are : 1. https://www.youtube.com/watch?v=C6X71gjB9pA  for having an idea that how to design a chat bot model.
                          2. https://www.codesnail.com/simple-password-generator-using-python/    with the help of this i understand how to use random for generations.
 
-image of block diagram :
-https://github.com/v3034/ML2021/issues/1#issue-724034723
+
